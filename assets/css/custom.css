@@ -1,12 +1,12 @@
 /* Hero Section */
 .hero-section {
-  min-height: 60vh;
+  min-height: 50vh;
   background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 120px 0;
+  padding: 55px 0;
   position: relative;
   border-bottom: 1px solid rgba(255, 215, 0, 0.1);
 }
