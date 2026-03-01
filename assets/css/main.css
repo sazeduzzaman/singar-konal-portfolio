@@ -1545,6 +1545,14 @@ p {
 
 .overhid {
   overflow: hidden;
+  height: 500px;
+}
+.overhid img{
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  position: top center;
 }
 
 .bgadd {
